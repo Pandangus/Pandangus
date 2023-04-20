@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hello 👋
+   I like making music and electronic sounds.
 <!--
 **Pandangus/Pandangus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
